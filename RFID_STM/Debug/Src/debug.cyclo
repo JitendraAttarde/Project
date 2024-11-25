@@ -1,0 +1,2 @@
+../Inc/core_cm4.h:2064:26:ITM_SendChar	4
+/opt/st/stm32cubeide_1.15.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.linux64_1.0.100.202403111256/tools/arm-none-eabi/include/stdio.h:220:5:fputc	1

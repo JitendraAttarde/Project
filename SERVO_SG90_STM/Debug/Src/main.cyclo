@@ -1,0 +1,4 @@
+../Src/main.c:12:6:GPIO_Init	1
+../Src/main.c:19:6:TIM2_Init	1
+../Src/main.c:30:6:TIM4_ms_Delay	2
+../Src/main.c:41:5:main	2
