@@ -1,8 +1,8 @@
 /*
  * i2c.c
  *
- *  Created on: Apr 2, 2024
- *      Author: Nilesh
+ *  Created on: July, 2024
+ *      Author: Jitendra
  */
 
 #include "i2c.h"
